@@ -1,0 +1,21 @@
+PLATFORM_VERSION			= 101056515
+DEFAULT_PWD 				="123123123"
+DEFAULT_ACCOUNT 			="yibo"
+
+--NET_IP_ADDRESS 				= "125.88.146.105"
+NET_IP_ADDRESS 				= "127.0.0.1"
+--NET_PORT   					= 12100
+NET_PORT   					= 8300
+
+RULE_3_1_1					=	0x00000001
+RULE_3_1_2					=	0x00000002
+RULE_3_1_3					=	0x00000004
+RULE_2_1					=	0x00000008
+RULE_2_2					=	0x00000010
+RULE_4_1_1					=	0x00000020
+RULE_4_1_2					=	0x00000040
+RULE_4_1_3					=	0x00000080
+RULE_4_1_4				    =   0x00000100 
+SHARE_MAIN_TITLE 			= "我正在玩》，无外挂，赠房卡，还有金币送，赶快来战！"
+SHARE_MAIN_DESC 			= "大家快一起来玩吧！"
+SHARE_MAIN_URL				= "http://www.yibo98.com/WxShare.aspx"
